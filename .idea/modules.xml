@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MyBatis-CommonMapper.iml" filepath="$PROJECT_DIR$/.idea/MyBatis-CommonMapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pro01Mapper/Pro01Mapper.iml" filepath="$PROJECT_DIR$/Pro01Mapper/Pro01Mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pro05MapperTypeHandler/Pro01Mapper (1).iml" filepath="$PROJECT_DIR$/Pro05MapperTypeHandler/Pro01Mapper (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pro02MapperMBG/Pro02MapperMBG.iml" filepath="$PROJECT_DIR$/Pro02MapperMBG/Pro02MapperMBG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pro03MapperOfMine/Pro03MapperOfMine.iml" filepath="$PROJECT_DIR$/Pro03MapperOfMine/Pro03MapperOfMine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pro04MapperExtends/Pro04MapperExtends.iml" filepath="$PROJECT_DIR$/Pro04MapperExtends/Pro04MapperExtends.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pro06MapperPrinciple/Pro06MyBatis.iml" filepath="$PROJECT_DIR$/Pro06MapperPrinciple/Pro06MyBatis.iml" />
+    </modules>
+  </component>
+</project>
